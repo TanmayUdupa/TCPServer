@@ -31,5 +31,6 @@
 *.out
 *.app
 
+bin/*
 tests/outputs/*
 tests/inputs_generated/*
